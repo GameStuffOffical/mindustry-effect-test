@@ -72,7 +72,6 @@ craftEffect: {
     sizeTo: 12
     colorFrom: 656565
     colorTo: 65656500
-  }
-}
+  }}]
 
 
