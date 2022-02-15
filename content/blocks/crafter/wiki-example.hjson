@@ -37,26 +37,26 @@ craftEffect: {
 {
     particles: 15
     length: 80
-    sizeFrom: 16
-    sizeTo: 16
+    sizeFrom: 8
+    sizeTo: 8
     colorFrom: ff0000
-    colorTo: ff0000ff
+    colorTo: ff000080
 }
 {
     particles: 15
     length: 80
-    sizeFrom: 16
-    sizeTo: 16
+    sizeFrom: 8
+    sizeTo: 8
     colorFrom: 00ff00
-    colorTo: 00ff00ff
+    colorTo: 00ff0080
 }
 {
     particles: 15
     length: 80
-    sizeFrom: 16
-    sizeTo: 16
+    sizeFrom: 8
+    sizeTo: 8
     colorFrom: 0000ff
-    colorTo: 0000ffff
+    colorTo: 0000ff80
 }
  ]}
 
