@@ -9,13 +9,12 @@ liquidCapacity: 72
 consumes: {
   items: {
     items: [
-      titanium/7
-      spore-pod/4
+    copper/0.1
     ]
   }
   liquid: {
     liquid: oil
-    amount: 0.6
+    amount: 0
   }
   power: 12
 }
@@ -39,7 +38,7 @@ craftEffect: {
     particles: 20
     length: 320
     sizeFrom: 0
-    sizeTo: 24
+    sizeTo: 32
     colorFrom: 656565
     colorTo: 65656500
 }
@@ -47,7 +46,7 @@ craftEffect: {
     particles: 20
     length: 160
     sizeFrom: 0
-    sizeTo: 12
+    sizeTo: 16
     colorFrom: 656565
     colorTo: 65656500
 }
@@ -55,7 +54,7 @@ craftEffect: {
     particles: 20
     length: 80
     sizeFrom: 0
-    sizeTo: 6
+    sizeTo: 8
     colorFrom: 656565
     colorTo: 65656500
 }
