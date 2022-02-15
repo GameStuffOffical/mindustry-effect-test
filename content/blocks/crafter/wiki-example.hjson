@@ -49,7 +49,7 @@ craftEffect: {
     length: 180
     lifetime: 90
     sizeFrom: 4
-    sizeTo: 8
+    sizeTo: 16
     colorFrom: 656565
     colorTo: 65656500
     startDelay:60
@@ -59,7 +59,7 @@ craftEffect: {
     length: 180
     lifetime: 90
     sizeFrom: 5
-    sizeTo: 10
+    sizeTo: 20
     colorFrom: 656565
     colorTo: 65656500
     startDelay:180
