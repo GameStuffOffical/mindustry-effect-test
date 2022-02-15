@@ -41,16 +41,5 @@ craftEffect: {
   colorFrom: ff0000
   colorTo: fffff00
 }
-name:Wiki Example
-craftEffect: {
-    particles: 20
-    length: 80
-    lifetime: 120
-    sizeFrom: 12
-    sizeTo: 12
-    colorFrom: 656565
-    colorTo: 65656500
-    startDelay:50
-}
 
 
