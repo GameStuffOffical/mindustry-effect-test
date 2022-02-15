@@ -35,28 +35,28 @@ craftEffect: {
   type: MultiEffect
   effects: [
 {
-    particles: 30
+    particles: 15
     length: 80
-    sizeFrom: 0
-    sizeTo: 32
-    colorFrom: 65656599
-    colorTo: 65656500
-}
-{
-    particles: 25
-    length: 40
-    sizeFrom: 0
+    sizeFrom: 16
     sizeTo: 16
-    colorFrom: 65656599
-    colorTo: 65656500
+    colorFrom: ff0000
+    colorTo: ff0000ff
 }
 {
-    particles: 20
-    length: 20
-    sizeFrom: 0
-    sizeTo: 8
-    colorFrom: 65656599
-    colorTo: 65656500
+    particles: 15
+    length: 80
+    sizeFrom: 16
+    sizeTo: 16
+    colorFrom: 00ff00
+    colorTo: 00ff00ff
+}
+{
+    particles: 15
+    length: 80
+    sizeFrom: 16
+    sizeTo: 16
+    colorFrom: 0000ff
+    colorTo: 0000ffff
 }
  ]}
 
