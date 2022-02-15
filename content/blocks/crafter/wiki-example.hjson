@@ -44,14 +44,25 @@ craftEffect: {
     colorFrom: 656565
     colorTo: 65656500
   }
-  {
-    particles: 20
-    length: 80
-    lifetime: 120
+    {
+    particles: 30
+    length: 180
+    lifetime: 90
     sizeFrom: 0
-    sizeTo: 12
+    sizeTo: 8
     colorFrom: 656565
     colorTo: 65656500
+    startDelay:30
+  }
+  {
+    particles: 30
+    length: 180
+    lifetime: 90
+    sizeFrom: 0
+    sizeTo: 10
+    colorFrom: 656565
+    colorTo: 65656500
+    startDelay:90
   }
  ]}
 
