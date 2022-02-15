@@ -34,10 +34,10 @@ name:Wiki Example
 craftEffect: {
   lifetime: 50
   type: ParticleEffect
-    particles: 20
+    particles: 40
     length: 160
-    sizeFrom: 12
-    sizeTo: 12
+    sizeFrom: 24
+    sizeTo: 24
     colorFrom: 656565
     colorTo: 65656500
 
