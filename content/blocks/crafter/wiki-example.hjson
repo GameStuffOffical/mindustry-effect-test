@@ -39,7 +39,7 @@ craftEffect: {
     length: 80
     sizeFrom: 8
     sizeTo: 8
-    colorFrom: ff000040
+    colorFrom: ff000080
     colorTo: ff000000
 }
 {
@@ -47,7 +47,7 @@ craftEffect: {
     length: 80
     sizeFrom: 8
     sizeTo: 8
-    colorFrom: 00ff0040
+    colorFrom: 00ff0080
     colorTo: 00ff0000
 }
 {
@@ -55,7 +55,7 @@ craftEffect: {
     length: 80
     sizeFrom: 8
     sizeTo: 8
-    colorFrom: 0000ff40
+    colorFrom: 0000ff80
     colorTo: 0000ff00
 }
  ]}
