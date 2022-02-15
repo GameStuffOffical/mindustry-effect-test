@@ -33,14 +33,31 @@ research: plastanium-compressor
 name:Wiki Example
 craftEffect: {
   lifetime: 150
-  type: ParticleEffect
-    particles: 80
+  type: MultiEffect
+  effects: [
+{
+    particles: 20
     length: 640
-    sizeFrom: 24
+    sizeFrom: 0
     sizeTo: 24
     colorFrom: 656565
     colorTo: 65656500
-
 }
-
+{
+    particles: 20
+    length: 320
+    sizeFrom: 0
+    sizeTo: 12
+    colorFrom: 656565
+    colorTo: 65656500
+}
+{
+    particles: 20
+    length: 160
+    sizeFrom: 0
+    sizeTo: 6
+    colorFrom: 656565
+    colorTo: 65656500
+}
+ ]}
 
