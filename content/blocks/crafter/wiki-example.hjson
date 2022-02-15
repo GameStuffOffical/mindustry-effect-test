@@ -35,7 +35,7 @@ craftEffect: {
   type: MultiEffect
   effects: [
 {
-    particles: 20
+    particles: 30
     length: 80
     sizeFrom: 0
     sizeTo: 32
@@ -43,7 +43,7 @@ craftEffect: {
     colorTo: 65656500
 }
 {
-    particles: 20
+    particles: 25
     length: 40
     sizeFrom: 0
     sizeTo: 16
