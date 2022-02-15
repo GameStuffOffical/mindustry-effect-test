@@ -42,39 +42,5 @@ craftEffect: {
   colorFrom: ff0000
   colorTo: fffffff
 }
-craftEffect: {
-  lifetime: 120
-  type: MultiEffect
-  effects: [
-  {
-    particles: 30
-    length: 40
-    lifetime: 90
-    sizeFrom: 3
-    sizeTo: 6
-    colorFrom: 656565
-    colorTo: 65656500
-  }
-    {
-    particles: 30
-    length: 80
-    lifetime: 90
-    sizeFrom: 4
-    sizeTo: 16
-    colorFrom: 656565
-    colorTo: 65656500
-    startDelay:60
-  }
-  {
-    particles: 30
-    length: 180
-    lifetime: 90
-    sizeFrom: 5
-    sizeTo: 20
-    colorFrom: 656565
-    colorTo: 65656500
-    startDelay:180
-  }
- ]}
 
 
