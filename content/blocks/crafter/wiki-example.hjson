@@ -3,18 +3,27 @@ type: genericCrafter
 craftTime: 160
 size: 1
 hasPower: true
+hasPower: true
+hasLiquids: true
+liquidCapacity: 72
 consumes: {
   items: {
     items: [
-      copper/1
+      titanium/7
+      spore-pod/4
     ]
+  }
+  liquid: {
+    liquid: oil
+    amount: 0.6
   }
   power: 12
 }
-craftEffect: smokeCloud
+
 requirements: [
   copper/1
 ]
+
 category: crafting
 outputItem: copper/1
 research: plastanium-compressor
