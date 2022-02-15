@@ -6,7 +6,7 @@ hasPower: true
 consumes: {
   items: {
     items: [
-      coal
+      copper/1
     ]
   }
   power: 12
