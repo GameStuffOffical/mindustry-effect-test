@@ -52,7 +52,7 @@ craftEffect: {
     sizeTo: 8
     colorFrom: 656565
     colorTo: 65656500
-    startDelay:30
+    startDelay:60
   }
   {
     particles: 30
@@ -62,7 +62,7 @@ craftEffect: {
     sizeTo: 10
     colorFrom: 656565
     colorTo: 65656500
-    startDelay:90
+    startDelay:180
   }
  ]}
 
