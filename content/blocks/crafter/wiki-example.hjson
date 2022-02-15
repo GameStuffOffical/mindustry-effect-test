@@ -35,15 +35,6 @@ craftEffect: {
   lifetime: 120
   type: MultiEffect
   effects: [
-  {
-    sizeFrom: 0
-    sizeTo: 120
-    lifetime: 25
-    colorFrom: e65555
-    colorTo: e6555575
-    strokeFrom: 5
-    strokeTo: 0
-  }
     {
     sizeFrom: 0
     sizeTo: 60
@@ -52,17 +43,6 @@ craftEffect: {
     colorTo: e6555575
     strokeFrom: 10
     strokeTo: 0
-  }
-  {
-    line: true
-    particles: 30
-    length: 140
-    lifetime: 35
-    colorTo: e6555520
-    strokeFrom: 5
-    strokeTo: 0
-    lenFrom: 25
-    lenTo: 8
   }
   {
     particles: 30
