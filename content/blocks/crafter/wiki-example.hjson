@@ -35,7 +35,7 @@ craftEffect: {
   lifetime: 50
   type: ParticleEffect
     particles: 40
-    length: 160
+    length: 640
     sizeFrom: 24
     sizeTo: 24
     colorFrom: 656565
