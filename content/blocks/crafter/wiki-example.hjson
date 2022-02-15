@@ -32,6 +32,17 @@ research: plastanium-compressor
 
 name:Wiki Example
 craftEffect: {
+  lifetime: 150
+  type: WaveEffect
+  sizeFrom: 45
+  sizeTo: 0
+  lifetime: 150
+  strokeFrom: 5
+  strokeTo: 0
+  colorFrom: ff0000
+  colorTo: fffffff
+}
+craftEffect: {
   lifetime: 120
   type: MultiEffect
   effects: [
