@@ -1,4 +1,26 @@
 
+type: genericCrafter
+craftTime: 160
+size: 1
+hasPower: true
+consumes: {
+  items: {
+    items: [
+      coal
+    ]
+  }
+  power: 12
+}
+craftEffect: smokeCloud
+requirements: [
+  copper/1
+]
+category: crafting
+outputItem: copper/1
+research: plastanium-compressor
+
+
+
 name:Wiki Example
 craftEffect: {
   lifetime: 120
@@ -52,3 +74,5 @@ craftEffect: {
     colorTo: 65656500
   }
 }
+
+
