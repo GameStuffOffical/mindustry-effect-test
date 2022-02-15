@@ -39,7 +39,7 @@ craftEffect: {
     particles: 30
     length: 180
     lifetime: 90
-    sizeFrom: 0
+    sizeFrom: 3
     sizeTo: 6
     colorFrom: 656565
     colorTo: 65656500
@@ -48,7 +48,7 @@ craftEffect: {
     particles: 30
     length: 180
     lifetime: 90
-    sizeFrom: 0
+    sizeFrom: 4
     sizeTo: 8
     colorFrom: 656565
     colorTo: 65656500
@@ -58,7 +58,7 @@ craftEffect: {
     particles: 30
     length: 180
     lifetime: 90
-    sizeFrom: 0
+    sizeFrom: 5
     sizeTo: 10
     colorFrom: 656565
     colorTo: 65656500
