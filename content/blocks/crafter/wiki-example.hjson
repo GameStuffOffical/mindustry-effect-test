@@ -1,6 +1,6 @@
 
 type: genericCrafter
-craftTime: 160
+craftTime: 80
 size: 1
 hasPower: true
 hasPower: true
@@ -34,12 +34,23 @@ name:Wiki Example
 craftEffect: {
   lifetime: 50
   type: WaveEffect
-  sizeFrom: 45
+  sizeFrom: 100
   sizeTo: 0
-  strokeFrom: 5
-  strokeTo: 0
+  strokeFrom: 10
+  strokeTo: 15
   colorFrom: ff0000
   colorTo: fffff00
+}
+name:Wiki Example
+craftEffect: {
+    particles: 20
+    length: 80
+    lifetime: 120
+    sizeFrom: 12
+    sizeTo: 12
+    colorFrom: 656565
+    colorTo: 65656500
+    startDelay:50
 }
 
 
