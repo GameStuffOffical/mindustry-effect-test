@@ -10,19 +10,19 @@ ammoTypes: {
   copper: {
     shootSound: flame
     ejectEffect: none
-    bullet: {
-        ammoMultiplier: 3
-        hitSize: 21
-        lifeTime: 39
-        pierce: true
-        statusDuration: 720
-        shootEffect:{
+    shootEffect:{
           type: particleEffect
           particles: 3
           colorFrom: ff0000ff
           colorTo: ffff00ff
           sprite: router
         }
+    bullet: {
+        ammoMultiplier: 3
+        hitSize: 21
+        lifeTime: 39
+        pierce: true
+        statusDuration: 720
         despawnEffect: none
         status: burning
         keepVelocity: false
