@@ -16,6 +16,7 @@ ammoTypes: {
           particles: 5
           colorFrom: ff0000ff
           colorTo: ffff00ff
+          followParent: true
         }
     bullet: {
         ammoMultiplier: 3
