@@ -7,7 +7,7 @@ reloadTime: 60
 category: turret
 
 ammoTypes: {
-  missile: {
+  copper: {
     shootSound: flame
     ejectEffect: none
     bullet: {
