@@ -11,8 +11,9 @@ ammoTypes: {
     shootSound: flame
     ejectEffect: none
     shootEffect:{
+          lifeTime: 600
           type: particleEffect
-          particles: 3
+          particles: 5
           colorFrom: ff0000ff
           colorTo: ffff00ff
           sprite: router
