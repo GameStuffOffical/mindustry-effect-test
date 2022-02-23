@@ -17,6 +17,7 @@ ammoTypes: {
         pierce: true
         statusDuration: 720
         shootEffect:{
+          type: particleEffect
           particles: 3
           colorFrom: red
           colorTo: orange
