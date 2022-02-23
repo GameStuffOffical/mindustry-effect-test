@@ -19,13 +19,15 @@ ammoTypes: {
         shootEffect:{
           type: particleEffect
           particles: 3
-          colorFrom: ff000000
-          colorTo: ffff0000
+          colorFrom: ff0000ff
+          colorTo: ffff00ff
+          sprite: router
         }
         despawnEffect: none
         status: burning
         keepVelocity: false
         hittable: false
+
     }
   }
 }  
