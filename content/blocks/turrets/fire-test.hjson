@@ -19,8 +19,8 @@ ammoTypes: {
         shootEffect:{
           type: particleEffect
           particles: 3
-          colorFrom: red
-          colorTo: orange
+          colorFrom: ff000000
+          colorTo: ffff0000
         }
         despawnEffect: none
         status: burning
