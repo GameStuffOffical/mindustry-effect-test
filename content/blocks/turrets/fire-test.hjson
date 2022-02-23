@@ -16,7 +16,6 @@ ammoTypes: {
           particles: 5
           colorFrom: ff0000ff
           colorTo: ffff00ff
-          sprite: router
         }
     bullet: {
         ammoMultiplier: 3
