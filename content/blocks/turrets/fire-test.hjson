@@ -24,7 +24,6 @@ ammoTypes: {
         hittable: false
     }
   }
-  }
 }  
 
 requirements: [
