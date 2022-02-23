@@ -16,16 +16,11 @@ ammoTypes: {
         lifeTime: 39
         pierce: true
         statusDuration: 720
-        shootEffect:  {
-          lifetime: 60
-          type: MultiEffect
-          effects: [
-            {
-              particles: 3
-              colorFrom: red
-              colorTo: orange
-            }
-          ]
+        shootEffect:{
+          particles: 3
+          colorFrom: red
+          colorTo: orange
+        }
         despawnEffect: none
         status: burning
         keepVelocity: false
